@@ -1,0 +1,10 @@
+{
+  "appId": "dynamictodo",
+  "apiKey": "632c867c9bcb2520d133c067111fc1fd593647ce45ad64f1c6346c5afbcef7fd",
+  "public": "./app",
+  "ignore": [
+    "stamplay.json",
+    "**/.*",
+    "**/node_modules/**"
+  ]
+}
